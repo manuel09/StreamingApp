@@ -1,0 +1,17 @@
+// build.gradle (Project Level)
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.0.2'  // Usa una versione compatibile con il tuo sistema
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
