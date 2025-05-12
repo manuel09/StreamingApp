@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // Carica il sito di streaming
-        webView.loadUrl("https://www.esempio-sito-streaming.com");  // Sostituisci con il sito vero
+        webView.loadUrl("https://streamingunity.to/it");  // Sostituisci con il sito vero
     }
 
     @Override
